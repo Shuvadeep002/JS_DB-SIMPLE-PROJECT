@@ -2,8 +2,6 @@
 ## Basic vertical form for Employee.
 ### You can fork it. But before that, please give a star (It's totally free).
 
-[Documentation Link]([http://login2e](https://github.com/Shuvadeep002/JS_DB-SIMPLE-PROJECT)xplore.com/jpdb/docs.html)
-
 ## You can see the official page of jsonPower batabase
 
 [Documentation Link](https://login2explore.com/jpdb/docs.html)
@@ -25,7 +23,7 @@
 ### Screenshots:
 
 
-
+![Front page](page1.png)
 ![Front page](page2.png)
 ![Front page](page3.png)
 ![Front page](page4.png)
