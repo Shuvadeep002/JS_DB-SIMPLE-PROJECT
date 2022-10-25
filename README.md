@@ -22,8 +22,10 @@
 
 ![Front page](page1.png)
 
-![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
+page2.png
+page3.png
+page4.png
+final database.png
 
-![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
 
 
