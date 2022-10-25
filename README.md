@@ -30,7 +30,7 @@
 ![Front page](page3.png)
 ![Front page](page4.png)
 
-![Final page]([final database.png](https://github.com/Shuvadeep002/JS_DB-SIMPLE-PROJECT/blob/ff7d685da7fdbef35ec90b101300da29e168d4cf/final%20database.png))
+![Final page](page5.png)
 
 
 
