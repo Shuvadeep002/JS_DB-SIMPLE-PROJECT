@@ -6,7 +6,8 @@
 
 [Documentation Link](https://login2explore.com/jpdb/docs.html)
 
-## "This project is created for puting records of a employee in the jsonPower batabase." 
+## "This project is created for puting records of a employee in the jsonPower batabase."
+## "It is build only use of HTML
 ### If you want to make changes in this repo, then create a PR. I will be happy to add more into it. Thanks.!
 ### About JsonPowerDB:
 
