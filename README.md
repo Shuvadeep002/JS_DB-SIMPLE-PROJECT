@@ -7,7 +7,10 @@
 [Documentation Link](https://login2explore.com/jpdb/docs.html)
 
 ## "This project is created for puting records of a employee in the jsonPower batabase."
-## "It is build only use of HTML
+## "It is build only use of HTML AND JAVA SCTIPT.
+
+[LOOK INTO THE CODE](index.html)
+
 ### If you want to make changes in this repo, then create a PR. I will be happy to add more into it. Thanks.!
 ### About JsonPowerDB:
 
