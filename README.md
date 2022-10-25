@@ -24,7 +24,7 @@
 
 ### Screenshots:
 
-![Front page](page1.png)
+
 
 ![Front page](page2.png)
 ![Front page](page3.png)
