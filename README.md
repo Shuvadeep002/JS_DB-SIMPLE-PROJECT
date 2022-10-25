@@ -4,7 +4,9 @@
 
 [Documentation Link](http://login2e](https://github.com/Shuvadeep002/JS_DB-SIMPLE-PROJECT)xplore.com/jpdb/docs.html)
 
-## You can
+## You can see the official page of jsonPower batabase
+
+[Documentation Link](https://login2explore.com/jpdb/docs.html)
 
 ## "This project is created for puting records of a employee in the jsonPower batabase." 
 ### If you want to make changes in this repo, then create a PR. I will be happy to add more into it. Thanks.!
@@ -28,7 +30,7 @@
 ![Front page](page3.png)
 ![Front page](page4.png)
 
-![Final page](final database.png](https://github.com/Shuvadeep002/JS_DB-SIMPLE-PROJECT/blob/ff7d685da7fdbef35ec90b101300da29e168d4cf/final%20database.png))
+![Final page]([final database.png](https://github.com/Shuvadeep002/JS_DB-SIMPLE-PROJECT/blob/ff7d685da7fdbef35ec90b101300da29e168d4cf/final%20database.png))
 
 
 
